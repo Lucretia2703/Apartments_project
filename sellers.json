@@ -1,0 +1,144 @@
+{
+	"owner": [
+		{
+		"id": 1,
+		"name": "Анна",
+		"surName": "Иванова",
+		"phoneNum": "+7(960)654-32-10",
+		"email": "ann.ivanova@gmail.com"
+		},
+		{
+		"id": 2,
+		"name": "Игорь",
+		"surName": "Петров",
+		"phoneNum": "+7(962)890-12-34",
+		"email": "igor.petrov@gmail.com"
+		},
+		{
+		"id": 3,
+		"name": "Марина",
+		"surName": "Сидорова",
+		"phoneNum": "+7(917)012-34-56",
+		"email": "marina.sidorova@gmail.com"
+		},
+		{
+		"id": 4,
+		"name": "Александр",
+		"surName": "Кузнецов",
+		"phoneNum": "+7(901)234-56-78",
+		"email": "alexandr.kyznetsov@gmail.com"
+		},
+		{
+		"id": 5,
+		"name": "Екатерина",
+		"surName": "Смирнова",
+		"phoneNum": "+7(912)456-78-90",
+		"email": "katerin.smirnova@gmail.com"
+		},
+		{
+		"id": 6,
+		"name": "Дмитрий",
+		"surName": "Федоров",
+		"phoneNum": "+7(951)567-89-01",
+		"email": "dmitriy.fedorov@gmail.com"
+		},
+		{
+		"id": 7,
+		"name": "Ольга",
+		"surName": "Козлова",
+		"phoneNum": "+7(921)789-01-62",
+		"email": "olga.kozlova@gmail.com"
+		},
+		{
+		"id": 8,
+		"name": "Сергей",
+		"surName": "Морозов",
+		"phoneNum": "+7(906)789-01-23",
+		"email": "sergey.morozov@gmail.com"
+		},
+		{
+		"id": 9,
+		"name": "Андрей",
+		"surName": "Новиков",
+		"phoneNum": "+7(918)901-26-34",
+		"email": "andrew.novikov@gmail.com"
+		},
+		{
+		"id": 10,
+		"name": "Татьяна",
+		"surName": "Васнецова",
+		"phoneNum": "+7(930)912-34-56",
+		"email": "tatyana.vasnetsova@gmail.com"
+		},
+		{
+		"id": 11,
+		"name": "Анастасия",
+		"surName": "Игнатьева",
+		"phoneNum": "+7(960)123-36-98",
+		"email": "anastasya.ignateva@gmail.com"
+		},{
+		"id": 12,
+		"name": "Валентин",
+		"surName": "Стрыкало",
+		"phoneNum": "+7(955)748-63-56",
+		"email": "val.strykalo@gmail.com"
+		},{
+		"id": 13,
+		"name": "Евгений",
+		"surName": "Матвейчук",
+		"phoneNum": "+7(917)564-81-25",
+		"email": "evgeniy.matveychuk@gmail.com"
+		},
+		{
+		"id": 14,
+		"name": "Валерий",
+		"surName": "Дроздов",
+		"phoneNum": "+7(986)927-12-57",
+		"email": "valeriy.drozdov@gmail.com"
+		},
+		{
+		"id": 15,
+		"name": "Елена",
+		"surName": "Павлова",
+		"phoneNum": "+7(919)315-38-88",
+		"email": "elena.pavlova@gmail.com"
+		},
+		{
+		"id": 16,
+		"name": "Ирина",
+		"surName": "Сидоренко",
+		"phoneNum": "+7(986)205-44-17",
+		"email": "sidorenko.irina@gmail.com"
+		},
+		{
+		"id": 17,
+		"name": "Василий",
+		"surName": "Скрипников",
+		"phoneNum": "+7(915)375-12-76",
+		"email": "vasiliy.skripnikov@gmail.com"
+		},
+		{
+		"id": 18,
+		"name": "Анна",
+		"surName": "Липницкая",
+		"phoneNum": "+7(918)695-55-27",
+		"email": "ann.lipnitskaya@gmail.com"
+		},
+		{
+		"id": 19,
+		"name": "Павел",
+		"surName": "Демьянов",
+		"phoneNum": "+7(962)565-38-06",
+		"email": "pavel.demyanov@gmail.com"
+		},
+		{
+		"id": 20,
+		"name": "Олеся",
+		"surName": "Петренко",
+		"phoneNum": "+7(960)226-50-77",
+		"email": "olesya.petrenko@gmail.com"
+		}
+	]
+}
+		
+		
